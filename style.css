@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
+html {
+  height: 100%;
+}
 body {
   margin: 0;
   font-family: 'Poppins',sans-serif;
+  height: 100%;
 }
 
 .container {
@@ -10,7 +14,6 @@ body {
   position: relative;
   background: linear-gradient(to bottom, #020107 0%, #201b46 100%);
 }
-
 
 .stars {
   z-index: 10;
