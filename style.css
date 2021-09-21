@@ -14,6 +14,7 @@ body {
   position: relative;
   background: linear-gradient(to bottom, #020107 0%, #201b46 100%);
   width: 100%;
+  min-height: 100%
 }
 
 .stars {
